@@ -1,2 +1,2 @@
-# kodeit-educator-jeddah
-Kodeit Educator Panworld
+# kodeit-educator-event
+Kodeit Educator Event
